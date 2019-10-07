@@ -22,9 +22,9 @@ Ex.
 
 class Animal():
 
- def __init__(self, name):
+\ def __init__(self, name):
  
-  self.name = name
+\  self.name = name
   
 a = Animal("dog")  #建立一個名叫dog的Animal實體(物件)
 
@@ -68,15 +68,15 @@ countries= ["America","Australia","Canada","France","Taiwan","Japan"]
 
 for country in countries:
 
-  if country == "Taiwan":
+\  if country == "Taiwan":
   
-    print("I love Taiwan")
+\    print("I love Taiwan")
     
-    break
+\    break
     
-  else:
+\  else:
   
-    print("This is not Taiwan")
+\    print("This is not Taiwan")
 
 
 
