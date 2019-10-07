@@ -1,7 +1,7 @@
 我是劉萱
 
 # Week 2
->CLASS
+##CLASS
 
 class類別，就像一個模組，可以產出具有相似特性的實體(物件)
 
@@ -32,6 +32,14 @@ print(a.name)
 資料來源https://ppt.cc/f1XG3x
 
 
+|O(1) |陣列讀取|
+|O(n) |簡易搜尋|
+|O(log n) |二分搜尋|
+|O(nlogn) |合併排序|
+|O(n²) |選擇排序|
+|O(2^n) |費波那契數列|
+
+
 # Week 3
 
 
@@ -40,3 +48,5 @@ print(a.name)
 
 自行練習存檔
 https://drive.google.com/drive/folders/1RCGUt_diu3g1JgMfRTSrCEFgF1JnXia0?usp=sharing
+Markdown Cheatsheet
+https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e#h1
