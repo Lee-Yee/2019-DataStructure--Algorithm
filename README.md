@@ -79,6 +79,7 @@ for country in countries:
 　　　print("This is not Taiwan")
 資料來源https://ppt.cc/fQkk8x
 
+![alt 文字](file:///C:/Users/user/Downloads/1570419729116.jpg "資料來源https://ppt.cc/fTVvCx")
 
 # Week 3
 
@@ -88,5 +89,6 @@ for country in countries:
 
 自行練習存檔
 https://drive.google.com/drive/folders/1RCGUt_diu3g1JgMfRTSrCEFgF1JnXia0?usp=sharing
+
 Markdown Cheatsheet
 https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e#h1
