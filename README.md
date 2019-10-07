@@ -77,7 +77,7 @@ for country in countries:
 　　else:
   
 　　　print("This is not Taiwan")
-
+資料來源https://ppt.cc/fQkk8x
 
 
 # Week 3
