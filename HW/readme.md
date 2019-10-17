@@ -1,1 +1,1 @@
-[程式碼](https://nbviewer.jupyter.org/githhub/Lee-Yee/LY/HW/QuickSort.ipynb)
+[程式碼](https://nbviewer.jupyter.org/githhub/Lee-Yee/LY/blob/master/HW/QuickSort.ipynb)
