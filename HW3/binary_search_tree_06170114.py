@@ -41,13 +41,13 @@ class Solution(object):
             self.inorder(root.right)
             
     def minval(self, root): 
-        while root .left is not None:  
-            root  = root .left 
+        while root.left is not None:  
+            root = root.left 
         return root  
     
     def maxval(self, root): 
-        while root .right is not None:  
-            root  = root .right 
+        while root.right is not None:  
+            root = root.right 
         return root
     
     def right_minval(self, root): 
