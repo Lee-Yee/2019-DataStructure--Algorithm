@@ -1,14 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 from Crypto.Hash import MD5
-
-
-# In[18]:
-
 
 class ListNode:
     def __init__(self, val):
@@ -80,26 +70,4 @@ class MyHashSet:
                 self.data[index] = None
         else:          
             return False
-
-
-# In[19]:
-
-
-hashSet = MyHashSet()
-hashSet.add('pig')
-hashSet.add('pig')
-hashSet.add('dog')
-rel = hashSet.contains('pig')
-print(rel)
-rel = hashSet.contains('dog')
-print(rel)
-rel = hashSet.contains('cat')
-print(rel)
-hashSet.add('bird')
-rel = hashSet.contains('bird')
-print(rel)
-hashSet.add('pig')
-hashSet.remove("pig")
-rel = hashSet.contains("pig")
-print(rel)
-
+        
