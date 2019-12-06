@@ -71,3 +71,7 @@ class MyHashSet:
         else:          
             return False
         
+#參考資料
+#http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html
+#http://alrightchiu.github.io/SecondRound/hash-tablechaining.html
+#https://toyo0103.blogspot.com/2018/04/hash-table.html
