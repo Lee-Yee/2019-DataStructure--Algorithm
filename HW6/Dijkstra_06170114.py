@@ -96,3 +96,4 @@ class Graph():
 #https://thispointer.com/python-how-to-add-append-key-value-pairs-in-dictionary-using-dict-update/
 #https://medium.com/cantors-paradise/dijkstras-shortest-path-algorithm-in-python-d955744c7064
 #https://github.com/anujdutt9/Python-Data-Structures-and-Algorithms/blob/master/Dijkstras_Algorithm/Dijkstra.py
+#http://nthucad.cs.nthu.edu.tw/~yyliu/personal/nou/04ds/kruskal.html
